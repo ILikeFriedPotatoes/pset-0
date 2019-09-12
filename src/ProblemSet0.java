@@ -33,12 +33,12 @@ public class ProblemSet0 {
          */
 
         System.out.println("   ##     ######  ######## ########");
-        System.out.println("  #  #    #    #  #        #");
-        System.out.println(" #    #  #    # #        #");
-        System.out.println("######## #####  #        ########");
-        System.out.println("#####");
-        System.out.println("#      # #       #               #");
-        System.out.println("#################");
+        System.out.println("  #  #    #     # #        #");
+        System.out.println(" #    #   #     # #        #");
+        System.out.println("########  #####   #        ########");
+        System.out.println("#      #  #       #               #");
+        System.out.println("#      #  #       #               #");
+        System.out.println("#      #  #       ######## ########");
 
         /*
          * Exercise 3.
