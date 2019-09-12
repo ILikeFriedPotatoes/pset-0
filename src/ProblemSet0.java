@@ -93,12 +93,12 @@ public class ProblemSet0 {
          * Print three diamonds to the console.
          */
 
-        System.out.println("\n     /\\     /\\");
-        System.out.println(" /  \\ /  \\   /  \\");
-        System.out.println("/    \\   \\ /    \\");
-        System.out.println("\\    / \\  \\    /");
+        System.out.println("\n  /\\     /\\     /\\");
+        System.out.println(" /  \\   /  \\   /  \\");
+        System.out.println("/    \\ /    \\ /    \\");
+        System.out.println("\\    / \\    / \\    /");
         System.out.println(" \\  /   \\  /   \\  /");
-        System.out.println("  \\/     \\/   /\n");
+        System.out.println("  \\/     \\/     \\/\n");
 
         /*
          * Exercise 9.
@@ -114,8 +114,8 @@ public class ProblemSet0 {
          * Print a plus sign to the console.
          */
 
-        System.out.println("\n+---+||");
+        System.out.println("\ng+---+||");
         System.out.println("+---++---+||+---++---+");
-        System.out.println("||+---+\n");
+        System.out.println("||+---+\ng");
       }
     }
